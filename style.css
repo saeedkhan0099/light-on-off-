@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color:black;
+    /* border: 2px solid palevioletred; */
+}
+img{
+    padding-top: 100px;
+    margin-left: 600px;
+}
+h3{
+    color: red;
+    text-align: center;
+    padding-top: 50px;
+    /* border: 3px solid white; */
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
